@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Chandani Kumari
 
-
-**chandni112000/chandni112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**chandni112000/chandni112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
